@@ -6,7 +6,7 @@
 int main()
 {
     //vika: Изменение 1
-    std::cout << "Hello World!\n";
+    std::cout << "Hello!\n";
     std::cout << "Перевод: Привет Мир!\n";
 }
 
